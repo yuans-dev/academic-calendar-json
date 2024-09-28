@@ -29,24 +29,7 @@
       "start": "2025-08-03",
       "end": "2025-09-06"
     }
-  ],
-        "holidays": [
-          { "name": "Ninoy Aquino Day", "date": "2024-08-21" },
-          { "name": "National Heroes Day", "date": "2024-08-26" },
-          { "name": "All Saints' Day", "date": "2024-11-01" },
-          { "name": "Bonifacio Day", "date": "2024-11-30" },
-          { "name": "Christmas Day", "date": "2024-12-25" },
-          { "name": "Rizal Day", "date": "2024-12-30" },
-          { "name": "New Year's Eve", "date": "2024-12-31" },
-          { "name": "New Year's Day", "date": "2025-01-01" },
-          { "name": "Chinese Lunar New Year", "date": "2025-01-29" },
-          { "name": "People Power Anniversary", "date": "2025-02-25" },
-          { "name": "Araw ng Kagitingan", "date": "2025-04-09" },
-          { "name": "Holy Thursday", "date": "2025-04-17" },
-          { "name": "Good Friday","date": "2025-04-18" },
-          { "name": "Labor Day", "date": "2025-05-01" },
-          { "name": "Independence Day", "date": "2025-06-12" }
-        ]
+  ]
     },
     {
         "title": "Far Eastern University",
@@ -88,23 +71,6 @@
               "start": "2025-07-23",
               "end": "2025-08-27"
             }
-          ],
-          "holidays": [
-            { "name": "Ninoy Aquino Day", "date": "2024-08-21" },
-            { "name": "National Heroes Day", "date": "2024-08-26" },
-            { "name": "All Saints' Day", "date": "2024-11-01" },
-            { "name": "Bonifacio Day", "date": "2024-11-30" },
-            { "name": "Christmas Day", "date": "2024-12-25" },
-            { "name": "Rizal Day", "date": "2024-12-30" },
-            { "name": "New Year's Eve", "date": "2024-12-31" },
-            { "name": "New Year's Day", "date": "2025-01-01" },
-            { "name": "Chinese Lunar New Year", "date": "2025-01-29" },
-            { "name": "People Power Anniversary", "date": "2025-02-25" },
-            { "name": "Araw ng Kagitingan", "date": "2025-04-09" },
-            { "name": "Holy Thursday", "date": "2025-04-17" },
-            { "name": "Good Friday", "date": "2025-04-18" },
-            { "name": "Labor Day", "date": "2025-05-01" },
-            { "name": "Independence Day", "date": "2025-06-12" }
           ]
         }
         
