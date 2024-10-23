@@ -3,29 +3,29 @@
         "title":"Mapua University",
         "terms": [
           {
-            "title": "First Trimester",
+            "term": "First Trimester",
             "start": "2024-08-12",
             "end": "2024-11-16"
           },
           {
-            "title": "Second Trimester",
+            "term": "Second Trimester",
             "start": "2024-12-02",
             "end": "2025-03-22"
           },
           {
-            "title": "Third Trimester",
+            "term": "Third Trimester",
             "start": "2025-04-28",
             "end": "2025-08-02"
           }
         ],
         "breaks": [
     {
-      "title": "Christmas Break",
+      "name": "Christmas Break",
       "start": "2024-12-17",
       "end": "2025-01-06"
     },
     {
-      "title": "Summer Break",
+      "name": "Summer Break",
       "start": "2025-08-03",
       "end": "2025-09-06"
     }
@@ -35,39 +35,39 @@
         "title": "Far Eastern University",
           "terms": [
             {
-              "title": "First Trimester",
+              "term": "First Trimester",
               "start": "2024-08-29",
               "end": "2024-12-04"
             },
             {
-              "title": "Second Trimester",
+              "term": "Second Trimester",
               "start": "2024-12-16",
               "end": "2025-04-02"
             },
             {
-              "title": "Third Trimester",
+              "term": "Third Trimester",
               "start": "2025-04-14",
               "end": "2025-07-22"
             }
           ],
           "breaks": [
             {
-              "title": "Trimester Break",
+              "name": "Trimester Break",
               "start": "2024-12-05",
               "end": "2024-12-15"
             },
             {
-              "title": "Christmas Break",
+              "name": "Christmas Break",
               "start": "2024-12-23",
               "end": "2025-01-02"
             },
             {
-              "title": "Trimester Break",
+              "name": "Trimester Break",
               "start": "2025-04-03",
               "end": "2025-04-13"
             },
             {
-              "title": "Midyear Break",
+              "name": "Midyear Break",
               "start": "2025-07-23",
               "end": "2025-08-27"
             }
